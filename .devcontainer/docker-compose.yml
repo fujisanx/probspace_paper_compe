@@ -1,0 +1,4 @@
+version: "3"
+services:
+  python:
+    working_dir: /home/workspace

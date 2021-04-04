@@ -1,0 +1,14 @@
+*.json
+*.csv
+*.tsv
+*.hdf5
+*.h5
+*.zip
+*.pickle
+*.pkl
+*.bin
+*.Identifier
+*.npz
+*.tfevents
+*.tsv
+*.npy
